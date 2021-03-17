@@ -1,7 +1,7 @@
 # Monthly Expenses
 Control your end-of-month expenses easily and simply.
 
-### This app use other plugins like:
+### This app use plugins like:
 
 - [flutter_svg](https://pub.dev/packages/flutter_svg)
 - [flutter_modular](https://pub.dev/packages/flutter_modular)
