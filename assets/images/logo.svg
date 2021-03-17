@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   sodipodi:docname="iconfinder_gear-financial-business-finance_3522168.svg"
+   id="svg29"
+   version="1.1"
+   viewBox="0 0 64 64">
+  <metadata
+     id="metadata33">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="gear-financial-business-finance"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="33.93722"
+     inkscape:cx="27.924336"
+     inkscape:zoom="13.9375"
+     showgrid="false"
+     id="namedview31"
+     inkscape:window-height="1058"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     inkscape:document-rotation="0"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs18">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2796"
+       x1="2.467"
+       x2="64.467"
+       y1="0.561"
+       y2="66.561">
+      <stop
+         style="stop-color:#10dc0b;stop-opacity:1"
+         offset="0"
+         stop-color="#fff200"
+         id="stop2792" />
+      <stop
+         style="stop-color:#10dc0b;stop-opacity:1"
+         offset="1"
+         stop-color="#cd118c"
+         id="stop2794" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2790"
+       x1="2.467"
+       x2="64.467"
+       y1="0.561"
+       y2="66.561">
+      <stop
+         style="stop-color:#10dc0b;stop-opacity:1"
+         offset="0"
+         stop-color="#fff200"
+         id="stop2786" />
+      <stop
+         style="stop-color:#10dc0b;stop-opacity:1"
+         offset="1"
+         stop-color="#cd118c"
+         id="stop2788" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2784"
+       x1="2.467"
+       x2="64.467"
+       y1="0.561"
+       y2="66.561">
+      <stop
+         style="stop-color:#10dc00;stop-opacity:1"
+         offset="0"
+         stop-color="#fff200"
+         id="stop2780" />
+      <stop
+         offset="1"
+         stop-color="#cd118c"
+         id="stop2782" />
+    </linearGradient>
+    <linearGradient
+       y2="66.561"
+       y1="0.561"
+       x2="64.467"
+       x1="2.467"
+       id="gradient_ice"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:#10dc0b;stop-opacity:1"
+         id="stop10"
+         stop-color="#fff200"
+         offset="0" />
+      <stop
+         style="stop-color:#10dc0b;stop-opacity:1"
+         id="stop12"
+         stop-color="#cd118c"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       y2="66.796"
+       y1="0.796"
+       xlink:href="#linearGradient2790"
+       x2="64.217"
+       x1="2.217"
+       id="gradient_ice-2" />
+    <linearGradient
+       y2="74.546"
+       y1="8.546"
+       xlink:href="#linearGradient2796"
+       x2="55.967"
+       x1="-6.033"
+       id="gradient_ice-3" />
+    <linearGradient
+       y2="58.577"
+       y1="-7.423"
+       xlink:href="#gradient_ice"
+       x2="72.966"
+       x1="10.966"
+       id="gradient_ice-4" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="32"
+       x2="62"
+       y1="32"
+       x1="2"
+       id="linearGradient860"
+       xlink:href="#linearGradient2784"
+       inkscape:collect="always" />
+  </defs>
+  <g
+     id="gear-financial-business-finance">
+    <path
+       id="path20"
+       style="fill:url(#linearGradient860);fill-opacity:1"
+       d="M62,39V25H54.958a23.927,23.927,0,0,0-1.777-4.281l4.982-4.983-9.9-9.9-4.983,4.982A23.927,23.927,0,0,0,39,9.042V2H25V9.042a23.927,23.927,0,0,0-4.281,1.777L15.736,5.837l-9.9,9.9,4.982,4.983A23.927,23.927,0,0,0,9.042,25H2V39H9.042a23.927,23.927,0,0,0,1.777,4.281L5.837,48.264l9.9,9.9,4.983-4.982A23.927,23.927,0,0,0,25,54.958V62H39V54.958a23.927,23.927,0,0,0,4.281-1.777l4.983,4.982,9.9-9.9-4.982-4.983A23.927,23.927,0,0,0,54.958,39Zm-8.761-1.26a21.849,21.849,0,0,1-2.165,5.217l-.382.664,4.642,4.643-7.07,7.07-4.643-4.642-.664.382a21.849,21.849,0,0,1-5.217,2.165l-.74.2V60H27V53.438l-.74-.2a21.866,21.866,0,0,1-5.217-2.165l-.664-.382-4.643,4.642-7.07-7.07,4.642-4.643-.382-.664a21.849,21.849,0,0,1-2.165-5.217l-.2-.74H4V27h6.562l.2-.74a21.866,21.866,0,0,1,2.165-5.217l.382-.664L8.666,15.736l7.07-7.071,4.643,4.643.664-.382a21.866,21.866,0,0,1,5.217-2.165l.74-.2V4H37v6.562l.74.2a21.849,21.849,0,0,1,5.217,2.165l.664.382,4.643-4.643,7.07,7.071-4.642,4.643.382.664a21.866,21.866,0,0,1,2.165,5.217l.2.74H60V37H53.438Z" />
+    <path
+       id="path22"
+       style="fill:url(#gradient_ice-2)"
+       d="M36,17V13H28v4H21V36H36v4H21v8h7v4h8V48h7V28H28V24H43V17Zm5,5H26v8H41V46H34v4H30V46H23V42H38V34H23V19h7V15h4v4h7Z" />
+    <path
+       id="path24"
+       style="fill:url(#gradient_ice-3)"
+       d="M13,35h6V29H13Zm2-4h2v2H15Z" />
+    <path
+       id="path26"
+       style="fill:url(#gradient_ice-4)"
+       d="M45,35h6V29H45Zm2-4h2v2H47Z" />
+  </g>
+</svg>

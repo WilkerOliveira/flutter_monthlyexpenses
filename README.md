@@ -12,3 +12,6 @@ Control your end-of-month expenses easily and simply.
 - [flutter_facebook_login](https://pub.dev/packages/flutter_facebook_login)
 - [charts_flutter](https://pub.dev/packages/charts_flutter)
 - [sqflite](https://pub.dev/packages/sqflite)
+
+
+### This app use Firebase Cloud Functions!
